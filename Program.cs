@@ -21,7 +21,7 @@ using System;
     {
       Console.WriteLine("PALINDROM");
       Console.WriteLine("Enter a word/number/sentance: ");
-      string userInput = Console.ReadLine();
+      string userInput = (Console.ReadLine()).ToLower();
       userInput = userInput.Replace(" ", String.Empty);
 
       Console.WriteLine(IsPalindrome(userInput));

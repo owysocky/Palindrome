@@ -12,7 +12,8 @@ _This is a program to check if word is a palindrome._
 | :-------------     | :------------- | :------------- |
 | **Program is checking if a word is palindrome** | User input: amma | Output: "true"|
 | **Program is checking if a number is palindrome** | User input: 34543 | Output: "true"|
-| **Program is checking if a sentance is palindrome** | User input: La abbaal | Output: "true"|
+| **Program is checking if a sentance is palindrome** | User input: he llo olleh | Output: "true"|
+| **Program is case insensative** | User input: hello OllEH | Output: "true"|
 
 ## Known Bugs
 
